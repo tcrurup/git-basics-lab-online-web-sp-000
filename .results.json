@@ -5,15 +5,15 @@
     "passes": 0,
     "pending": 0,
     "failures": 6,
-    "start": "2019-04-22T17:59:40.373Z",
-    "end": "2019-04-22T17:59:40.393Z",
-    "duration": 20
+    "start": "2019-04-22T18:01:55.273Z",
+    "end": "2019-04-22T18:01:55.287Z",
+    "duration": 14
   },
   "tests": [
     {
       "title": "has a folder named my-repository",
       "fullTitle": "this lab has a folder named my-repository",
-      "duration": 2,
+      "duration": 3,
       "currentRetry": 0,
       "err": {
         "message": "no folder name \"my-repository\" was found: value: expected './my-repository' to exist",
@@ -88,7 +88,7 @@
     {
       "title": "has a folder named my-repository",
       "fullTitle": "this lab has a folder named my-repository",
-      "duration": 2,
+      "duration": 3,
       "currentRetry": 0,
       "err": {
         "message": "no folder name \"my-repository\" was found: value: expected './my-repository' to exist",
